@@ -26,3 +26,8 @@
   background-color: transparent;
   cursor: pointer;
 }
+
+.buttons {
+  display: flex;
+  gap: 30px;
+}
